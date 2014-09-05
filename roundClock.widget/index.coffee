@@ -50,8 +50,8 @@ style: """
   /* Styles (mod if you want) */
   box-sizing: border-box
 
-  right: 20px
-  top: 30px
+  right: 46%
+  top: 25%
   margin-left: 15px * scale
   margin-bottom: 15px * scale
 
