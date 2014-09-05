@@ -93,21 +93,21 @@ style: """
     margin-top: -38px * scale
     width:    215px * scale
 
-    font-family: HelveticaNeue
+    font-family: AvenirNext, Helvetica
     font-size: 72px * scale
     line-height: 1
     text-align: center
     -webkit-font-smoothing: antialiased    // the transparent bg makes subpixel look bad
     color: main
   #hr-dig
-    font-family: HelveticaNeue-Bold
+    font-family: AvenirNext-Bold, Helvetica-Bold
     letter-spacing: -3px * scale
     margin-right: 3px * scale
   #min-dig
     font-size: 48px * scale
     letter-spacing: -2px * scale
   #sec-dig
-    font-family: HelveticaNeue-Light
+    font-family: AvenirNext-Light, Helvetica-Light
     font-size: 24px * scale
     color: second
 """
